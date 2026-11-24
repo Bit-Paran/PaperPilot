@@ -1,0 +1,41 @@
+id,question,marks,score,timesUsed,topic
+1,Define a string and explain how it is represented in memory.,2,5,1,string
+2,What is meant by immutable strings in Java? Explain with an example.,3,7,1,string
+3,Explain the difference between String and StringBuilder classes.,4,8,1,string
+4,What is the purpose of the length() method in strings?,2,5,1,string
+5,Explain how substring() works with suitable examples.,3,7,1,string
+6,Describe the process of string concatenation and its time complexity.,4,8,1,string
+7,What is string comparison? Explain equals() vs ==.,5,9,1,string
+8,Explain how strings are stored internally in Java.,4,8,1,string
+9,What is the use of charAt() method? Provide an example.,2,5,1,string
+10,Explain how to reverse a string using different approaches.,5,9,1,string
+11,Describe the concept of string parsing with examples.,3,7,1,string
+12,Explain the use of trim() and its importance.,2,5,1,string
+13,What is string splitting? Explain using split() method.,3,7,1,string
+14,Explain how pattern matching is done in strings.,4,8,1,string
+15,What is the time complexity of string comparison?,3,7,1,string
+16,Explain the concept of palindrome in strings with algorithm.,5,9,1,string
+17,What is an anagram? Explain how to check it.,5,9,1,string
+18,Explain string hashing and its applications.,4,8,1,string
+19,Describe KMP algorithm for pattern searching.,5,9,1,string
+20,Explain longest common subsequence (LCS) using strings.,5,9,1,string
+21,What is string,1,5,0,string
+22,String is immutable or not,1,5,0,string
+23,What is length of string,1,5,0,string
+24,What is charAt method,1,5,0,string
+25,What is substring,1,5,0,string
+26,What is string concatenation,1,5,0,string
+27,What is trim method,1,5,0,string
+28,What is indexOf method,1,5,0,string
+29,What is equals method,1,5,0,string
+30,What is string object,1,5,0,string
+31,Explain string with example,2,8,0,string
+32,Explain string methods,2,8,0,string
+33,Explain charAt method,2,8,0,string
+34,Explain substring method,2,8,0,string
+35,Explain trim method,2,8,0,string
+36,Explain string comparison,2,8,0,string
+37,Explain string concatenation,2,8,0,string
+38,Explain string immutability,2,8,0,string
+39,Explain string functions,2,8,0,string
+40,Explain string usage,2,8,0,string

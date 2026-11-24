@@ -1,0 +1,42 @@
+id,question,marks,score,timesUsed,topic
+1,What is sorting? Define its importance.,2,5,1,sorting
+2,Explain Bubble Sort algorithm.,3,7,1,sorting
+3,Explain Selection Sort with example.,3,7,1,sorting
+4,Explain Insertion Sort algorithm.,4,8,1,sorting
+5,Explain Merge Sort using divide and conquer.,5,9,1,sorting
+6,Explain Quick Sort algorithm.,5,9,1,sorting
+7,What is Heap Sort?,4,8,1,sorting
+8,Compare stable and unstable sorting.,4,8,1,sorting
+9,Explain time complexity of Bubble Sort.,2,5,1,sorting
+10,Explain time complexity of Merge Sort.,3,7,1,sorting
+11,Explain time complexity of Quick Sort.,3,7,1,sorting
+12,What is in-place sorting?,2,5,1,sorting
+13,Explain Counting Sort.,4,8,1,sorting
+14,Explain Radix Sort.,4,8,1,sorting
+15,Explain Bucket Sort.,4,8,1,sorting
+16,Compare different sorting algorithms.,5,9,1,sorting
+17,Explain worst case of Quick Sort.,3,7,1,sorting
+18,Explain best case of Insertion Sort.,3,7,1,sorting
+19,Explain applications of sorting.,4,8,1,sorting
+20,Explain hybrid sorting techniques.,5,9,1,sorting
+21,What is sorting,1,5,0,sorting
+22,What is bubble sort,1,5,0,sorting
+23,What is selection sort,1,5,0,sorting
+24,What is insertion sort,1,5,0,sorting
+25,Sorting means what,1,5,0,sorting
+26,Ascending order meaning,1,5,0,sorting
+27,Descending order meaning,1,5,0,sorting
+28,What is comparison sort,1,5,0,sorting
+29,What is stable sort,1,5,0,sorting
+30,What is sorting application,1,5,0,sorting
+
+31,Explain bubble sort,2,8,0,sorting
+32,Explain selection sort,2,8,0,sorting
+33,Explain insertion sort,2,8,0,sorting
+34,Explain sorting with example,2,8,0,sorting
+35,Explain sorting algorithm,2,8,0,sorting
+36,Explain sorting steps,2,8,0,sorting
+37,Explain sorting application,2,8,0,sorting
+38,Explain sorting complexity,2,8,0,sorting
+39,Explain stable sorting,2,8,0,sorting
+40,Explain unstable sorting,2,8,0,sorting

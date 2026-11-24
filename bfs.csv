@@ -1,0 +1,41 @@
+id,question,marks,score,timesUsed,topic
+1,What is Breadth First Search (BFS)? Define it clearly.,2,5,1,bfs
+2,Explain the working of BFS algorithm step by step.,3,7,1,bfs
+3,What data structure is used in BFS and why?,3,7,1,bfs
+4,Explain BFS traversal on a graph with an example.,5,9,1,bfs
+5,What is the time complexity of BFS?,2,5,1,bfs
+6,Explain space complexity of BFS algorithm.,3,7,1,bfs
+7,How does BFS help in finding shortest path?,4,8,1,bfs
+8,Explain BFS traversal using adjacency list.,4,8,1,bfs
+9,What is level order traversal in BFS?,3,7,1,bfs
+10,Explain BFS with a tree example.,4,8,1,bfs
+11,How does BFS handle cycles in graph?,4,8,1,bfs
+12,Explain BFS implementation using queue.,3,7,1,bfs
+13,What is multi-source BFS?,4,8,1,bfs
+14,Explain BFS in grid-based problems.,5,9,1,bfs
+15,What are applications of BFS in real life?,4,8,1,bfs
+16,Explain BFS for connected components.,5,9,1,bfs
+17,How BFS differs from DFS?,4,8,1,bfs
+18,Explain BFS in weighted vs unweighted graph.,5,9,1,bfs
+19,Describe BFS algorithm with pseudocode.,5,9,1,bfs
+20,Explain BFS in network routing problems.,5,9,1,bfs
+21,What is BFS,1,5,0,bfs
+22,Full form of BFS,1,5,0,bfs
+23,Which data structure BFS uses,1,5,0,bfs
+24,BFS starts from which node,1,5,0,bfs
+25,What is level order traversal,2,5,0,bfs
+26,What is queue,1,5,0,bfs
+27,What is graph traversal,1,5,0,bfs
+28,BFS used in which structure,2,5,0,bfs
+29,What is visited array,1,5,0,bfs
+30,What is BFS application,1,5,0,bfs
+31,Explain BFS algorithm,2,8,0,bfs
+32,Explain BFS with example,2,8,0,bfs
+33,Explain queue in BFS,3,8,0,bfs
+34,Explain BFS traversal steps,2,8,0,bfs
+35,Explain BFS working,2,8,0,bfs
+36,Explain BFS application,4,8,0,bfs
+37,Explain shortest path using BFS,2,8,0,bfs
+38,Explain BFS in tree,5,8,0,bfs
+39,Explain BFS in graph,2,8,0,bfs
+40,Explain BFS complexity,2,8,0,bfs

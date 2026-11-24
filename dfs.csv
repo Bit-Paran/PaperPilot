@@ -1,0 +1,41 @@
+id,question,marks,score,timesUsed,topic
+1,What is Depth First Search (DFS)?,2,5,1,dfs
+2,Explain DFS algorithm step by step.,3,7,1,dfs
+3,Which data structure is used in DFS?,2,5,1,dfs
+4,Explain recursive implementation of DFS.,4,8,1,dfs
+5,Explain iterative DFS using stack.,4,8,1,dfs
+6,What is time complexity of DFS?,2,5,1,dfs
+7,Explain space complexity of DFS.,3,7,1,dfs
+8,Explain DFS traversal on graph.,5,9,1,dfs
+9,What is backtracking in DFS?,4,8,1,dfs
+10,Explain DFS on trees.,3,7,1,dfs
+11,How DFS is used for cycle detection?,5,9,1,dfs
+12,Explain DFS for connected components.,5,9,1,dfs
+13,What is topological sorting using DFS?,5,9,1,dfs
+14,Explain DFS edge classification.,4,8,1,dfs
+15,How DFS works in directed graph?,4,8,1,dfs
+16,Explain DFS traversal order.,3,7,1,dfs
+17,What are applications of DFS?,4,8,1,dfs
+18,Explain DFS for path finding.,4,8,1,dfs
+19,Describe DFS algorithm with pseudocode.,5,9,1,dfs
+20,Explain difference between BFS and DFS.,5,9,1,dfs
+21,What is DFS,1,5,0,dfs
+22,Full form of DFS,1,5,0,dfs
+23,DFS uses which structure,1,5,0,dfs
+24,What is stack,1,5,0,dfs
+25,DFS starts from node,1,5,0,dfs
+26,What is recursion,1,5,0,dfs
+27,What is graph traversal,1,5,0,dfs
+28,DFS used in which problems,1,5,0,dfs
+29,What is backtracking,1,5,0,dfs
+30,What is DFS application,1,5,0,dfs
+31,Explain DFS algorithm,2,8,0,dfs
+32,Explain DFS with example,2,8,0,dfs
+33,Explain stack in DFS,2,8,0,dfs
+34,Explain recursion in DFS,2,8,0,dfs
+35,Explain DFS traversal,2,8,0,dfs
+36,Explain DFS working,2,8,0,dfs
+37,Explain DFS application,2,8,0,dfs
+38,Explain DFS in graph,2,8,0,dfs
+39,Explain DFS in tree,2,8,0,dfs
+40,Explain DFS complexity,2,8,0,dfs
